@@ -1,0 +1,16 @@
+section img {
+  display   : block;
+  margin    : 0 auto;
+  margin-top: 12%;
+}
+
+input {
+  display      : block;
+  margin       : 0 auto;
+  margin-top   : 1%;
+  width        : 26%;
+  height       : 33px;
+  border-radius: 21px;
+  padding-left : 30px;
+  border       : 1px solid rgba(128, 128, 128, 0.466);
+}
