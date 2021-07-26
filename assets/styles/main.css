@@ -1,21 +1,20 @@
 /* Navigation */
 nav {
-  /* display: block; */
-  /* float: right; */
-  position: fixed;
+  position: sticky;
   top     : 13px;
-  left    : 83%;
+  left    : 80%;
+  display : inline-block;
 }
 
 nav a {
-  padding        : 6px;
+  padding        : 10px 16px;
   margin         : auto;
   text-decoration: none;
   color          : black;
 }
 
 .signin {
-  background-color: rgb(0, 132, 255);
+  background-color: rgb(54, 65, 227);
   color           : whitesmoke;
   border-radius   : 7px;
 }
