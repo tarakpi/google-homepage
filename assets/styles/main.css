@@ -1,3 +1,27 @@
+/* Navigation */
+nav {
+  /* display: block; */
+  /* float: right; */
+  position: fixed;
+  top     : 13px;
+  left    : 83%;
+}
+
+nav a {
+  padding        : 6px;
+  margin         : auto;
+  text-decoration: none;
+  color          : black;
+}
+
+.signin {
+  background-color: rgb(0, 132, 255);
+  color           : whitesmoke;
+  border-radius   : 7px;
+}
+
+
+/* Main Content */
 section img {
   display   : block;
   margin    : 0 auto;
