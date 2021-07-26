@@ -7,6 +7,10 @@ a {
   font-size      : 12px;
 }
 
+a:hover {
+  text-decoration: underline;
+}
+
 /* Navigation */
 nav {
   position: sticky;
